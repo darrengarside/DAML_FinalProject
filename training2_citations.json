@@ -1,0 +1,882 @@
+[
+    {
+      "author": [
+        {
+          "given": "Alverson"
+        },
+        {
+          "given": "Sandberg"
+        },
+        {
+          "family": "Cohen",
+          "given": "L.Manion"
+        },
+        {
+          "given": "L."
+        },
+        {
+          "family": "Morrison",
+          "given": "K."
+        }
+      ],
+      "title": "Research Methods in Education",
+      "publisher": "Routledge",
+      "volume": "9 and 10",
+      "language": "en",
+      "type": "book",
+      "issued": {
+        "date-parts": [
+          [2011]
+        ]
+      },
+      "page": "195 – 216",
+      "publisher-place": "London"
+    },
+    {
+      "author": [
+        {
+          "given": "Atkinson"
+        }
+      ],
+      "editor": [
+        {
+          "family": "Edwards",
+          "given": "A.D."
+        }
+      ],
+      "title": "Language Codes and Classroom Practice",
+      "volume": "13",
+      "note": "Available at:",
+      "type": "article-journal",
+      "container-title": "Oxford Review of Education",
+      "issue": "3",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [1985]
+        ]
+      },
+      "page": "237–247",
+      "URL": "https://doi.org/10.1080/0305498870130301",
+      "DOI": "10.1080/0305498870130301"
+    },
+    {
+      "author": [
+        {
+          "family": "Bernstein",
+          "given": "B."
+        }
+      ],
+      "title": "'Elaborated and Restricted Codes: Their Social Origins and Some Consequences'",
+      "volume": "66(6, Part 2",
+      "publisher": "The Ethnography of Communication",
+      "note": "Available at:",
+      "type": "article-journal",
+      "container-title": "American Anthropologist",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [1964]
+        ]
+      },
+      "page": "55–69",
+      "URL": "https://www.jstor.org/stable/668161"
+    },
+    {
+      "author": [
+        {
+          "family": "Bernstein",
+          "given": "B."
+        }
+      ],
+      "title": "'Elaborated and Restricted Codes: Their Social Origins and Some Consequences'",
+      "volume": "66(6, Part 2",
+      "publisher": "The Ethnography of Communication",
+      "note": "Available at:",
+      "type": "article-journal",
+      "container-title": "American Anthropologist",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [1964]
+        ]
+      },
+      "page": "55–69",
+      "URL": "https://www.jstor.org/stable/668161"
+    },
+    {
+      "author": [
+        {
+          "given": "Bogdan"
+        },
+        {
+          "given": "Biklen"
+        },
+        {
+          "family": "Tubey",
+          "given": "R.J."
+        },
+        {
+          "family": "Rotich",
+          "given": "J.K."
+        },
+        {
+          "family": "Bengat",
+          "given": "J.K."
+        }
+      ],
+      "title": "'Research paradigms: Theory and practice.'",
+      "volume": "5",
+      "note": "Online] Available from:",
+      "type": "article-journal",
+      "container-title": "Research on Humanities and Social Sciences",
+      "issue": "5",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [1998]
+        ]
+      },
+      "URL": "http://www.iiste.org"
+    },
+    {
+      "author": [
+        {
+          "family": "Booth",
+          "given": "A."
+        },
+        {
+          "family": "Sutton",
+          "given": "A."
+        },
+        {
+          "family": "Clowes",
+          "given": "M."
+        },
+        {
+          "family": "Martyn-St James",
+          "given": "M."
+        }
+      ],
+      "title": "Systematic Approaches to a Successful Literature Review",
+      "edition": "3rd",
+      "publisher": "SAGE Publications Ltd",
+      "language": "en",
+      "type": "book",
+      "issued": {
+        "date-parts": [
+          [2021]
+        ]
+      }
+    },
+    {
+      "author": [
+        {
+          "given": "Bourdieu"
+        }
+      ],
+      "editor": [
+        {
+          "family": "Szeman",
+          "given": "I."
+        },
+        {
+          "family": "Kaposy",
+          "given": "T."
+        }
+      ],
+      "title": "Cultural Theory",
+      "publisher": "An Anthology Wiley & Sons",
+      "note": "Available at:",
+      "language": "en",
+      "type": null,
+      "issued": {
+        "date-parts": [
+          [1986]
+        ]
+      },
+      "URL": "https://books.google.co.uk/books?id=O5uGEAAAQBAJ&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false"
+    },
+    {
+      "author": [
+        {
+          "given": "Bourdieu"
+        }
+      ],
+      "editor": [
+        {
+          "family": "Szeman",
+          "given": "I."
+        },
+        {
+          "family": "Kaposy",
+          "given": "T."
+        }
+      ],
+      "title": "Cultural Theory",
+      "publisher": "An Anthology Wiley & Sons",
+      "note": "Available at:",
+      "language": "en",
+      "type": null,
+      "issued": {
+        "date-parts": [
+          [1986]
+        ]
+      },
+      "URL": "https://books.google.co.uk/books?id=O5uGEAAAQBAJ&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false"
+    },
+    {
+      "author": [
+        {
+          "given": "Brymann"
+        },
+        {
+          "family": "Tubey",
+          "given": "R.J."
+        },
+        {
+          "family": "Rotich",
+          "given": "J.K."
+        },
+        {
+          "family": "Bengat",
+          "given": "J.K."
+        }
+      ],
+      "title": "'Research paradigms: Theory and practice.'",
+      "volume": "5",
+      "note": "Online] Available from:",
+      "type": "article-journal",
+      "container-title": "Research on Humanities and Social Sciences",
+      "issue": "5",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [2001]
+        ]
+      },
+      "URL": "http://www.iiste.org"
+    },
+    {
+      "author": [
+        {
+          "family": "Cohen",
+          "given": "Manion"
+        },
+        {
+          "given": "Morrison"
+        },
+        {
+          "family": "Tubey",
+          "given": "R.J."
+        },
+        {
+          "family": "Rotich",
+          "given": "J.K."
+        },
+        {
+          "family": "Bengat",
+          "given": "J.K."
+        }
+      ],
+      "title": "'Research paradigms: Theory and practice.'",
+      "volume": "5",
+      "note": "Online] Available from:",
+      "type": "article-journal",
+      "container-title": "Research on Humanities and Social Sciences",
+      "issue": "5",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [2000]
+        ]
+      },
+      "URL": "http://www.iiste.org"
+    },
+    {
+      "author": [
+        {
+          "family": "Cohen",
+          "given": "Manion"
+        },
+        {
+          "given": "Morrison"
+        },
+        {
+          "family": "Tubey",
+          "given": "R.J."
+        },
+        {
+          "family": "Rotich",
+          "given": "J.K."
+        },
+        {
+          "family": "Bengat",
+          "given": "J.K."
+        }
+      ],
+      "title": "'Research paradigms: Theory and practice.'",
+      "volume": "5",
+      "note": "Online] Available from:",
+      "type": "article-journal",
+      "container-title": "Research on Humanities and Social Sciences",
+      "issue": "5",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [2000]
+        ]
+      },
+      "URL": "http://www.iiste.org"
+    },
+    {
+      "author": [
+        {
+          "family": "Edwards",
+          "given": "A.D."
+        }
+      ],
+      "title": "Language Codes and Classroom Practice",
+      "volume": "13",
+      "note": "Available at:",
+      "type": "article-journal",
+      "container-title": "Oxford Review of Education",
+      "issue": "3",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [1987]
+        ]
+      },
+      "page": "237–247",
+      "URL": "https://doi.org/10.1080/0305498870130301",
+      "DOI": "10.1080/0305498870130301"
+    },
+    {
+      "author": [
+        {
+          "family": "Edwards",
+          "given": "A.D."
+        }
+      ],
+      "title": "Language Codes and Classroom Practice",
+      "volume": "13",
+      "note": "Available at:",
+      "type": "article-journal",
+      "container-title": "Oxford Review of Education",
+      "issue": "3",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [1987]
+        ]
+      },
+      "page": "237–247",
+      "URL": "https://doi.org/10.1080/0305498870130301",
+      "DOI": "10.1080/0305498870130301"
+    },
+    {
+      "author": [
+        {
+          "family": "Ertmer",
+          "given": "P.A."
+        },
+        {
+          "family": "Newby",
+          "given": "T.J."
+        }
+      ],
+      "title": "Behaviorism, Cognitivism, Constructivism: Comparing Critical Features From an Instructional Design Perspective’",
+      "volume": "26",
+      "type": "article-journal",
+      "container-title": "Performance Improvement Quarterly",
+      "issue": "2",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [2013]
+        ]
+      },
+      "page": "43–71",
+      "DOI": "10.1002/piq.21143."
+    },
+    {
+      "author": [
+        {
+          "given": "Fazanfar"
+        },
+        {
+          "family": "Tubey",
+          "given": "R.J."
+        },
+        {
+          "family": "Rotich",
+          "given": "J.K."
+        },
+        {
+          "family": "Bengat",
+          "given": "J.K."
+        }
+      ],
+      "title": "'Research paradigms: Theory and practice.'",
+      "volume": "5",
+      "note": "Online] Available from:",
+      "type": "article-journal",
+      "container-title": "Research on Humanities and Social Sciences",
+      "issue": "5",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [2005]
+        ]
+      },
+      "URL": "http://www.iiste.org"
+    },
+    {
+      "author": [
+        {
+          "given": "Fink"
+        },
+        {
+          "family": "Booth",
+          "given": "A."
+        },
+        {
+          "family": "Sutton",
+          "given": "A."
+        },
+        {
+          "family": "Clowes",
+          "given": "M."
+        },
+        {
+          "family": "Martyn-St James",
+          "given": "M."
+        }
+      ],
+      "title": "Systematic Approaches to a Successful Literature Review",
+      "edition": "3rd",
+      "publisher": "SAGE Publications Ltd",
+      "language": "en",
+      "type": "book",
+      "issued": {
+        "date-parts": [
+          [2019]
+        ]
+      }
+    },
+    {
+      "author": [
+        {
+          "family": "Hammond",
+          "given": "M."
+        }
+      ],
+      "title": "Research Methods: The key concepts",
+      "publisher": "Routledge",
+      "language": "en",
+      "type": "book",
+      "issued": {
+        "date-parts": [
+          [2021]
+        ]
+      },
+      "page": "127–129",
+      "publisher-place": "Abingdon"
+    },
+    {
+      "author": [
+        {
+          "given": "Harden"
+        },
+        {
+          "family": "Booth",
+          "given": "A."
+        },
+        {
+          "family": "Sutton",
+          "given": "A."
+        },
+        {
+          "family": "Clowes",
+          "given": "M."
+        },
+        {
+          "family": "Martyn-St James",
+          "given": "M."
+        }
+      ],
+      "title": "Systematic Approaches to a Successful Literature Review",
+      "edition": "3rd",
+      "publisher": "SAGE Publications Ltd",
+      "language": "en",
+      "type": "book",
+      "issued": {
+        "date-parts": [
+          [2010]
+        ]
+      }
+    },
+    {
+      "author": [
+        {
+          "family": "Steimer",
+          "given": "John"
+        },
+        {
+          "family": "Dastpak",
+          "given": "M."
+        },
+        {
+          "family": "Behjat",
+          "given": "F."
+        },
+        {
+          "family": "Taghinezhad",
+          "given": "A."
+        }
+      ],
+      "title": "'A comparative study of Vygotsky's perspectives on child language development with nativism and behaviorism.'",
+      "volume": "5",
+      "note": "Online] Available from:",
+      "type": "article-journal",
+      "container-title": "International Journal of Languages' Education and Teaching",
+      "issue": "2",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [2007]
+        ]
+      },
+      "page": "230–238",
+      "URL": "https://eric.ed.gov/?id=ED574953"
+    },
+    {
+      "author": [
+        {
+          "given": "Murphy"
+        },
+        {
+          "family": "Curtis",
+          "given": "W."
+        },
+        {
+          "family": "Murphy",
+          "given": "M."
+        },
+        {
+          "family": "Shields",
+          "given": "S."
+        }
+      ],
+      "title": "Approaches to Educational Research",
+      "publisher": "Routledge",
+      "note": "check reference date",
+      "language": "en",
+      "type": null,
+      "issued": {
+        "date-parts": [
+          [2013]
+        ]
+      },
+      "page": "1–15",
+      "publisher-place": "London"
+    },
+    {
+      "author": [
+        {
+          "given": "Mutch"
+        },
+        {
+          "family": "Tubey",
+          "given": "R.J."
+        },
+        {
+          "family": "Rotich",
+          "given": "J.K."
+        },
+        {
+          "family": "Bengat",
+          "given": "J.K."
+        }
+      ],
+      "title": "'Research paradigms: Theory and practice.'",
+      "volume": "5",
+      "note": "Online] Available from:",
+      "type": "article-journal",
+      "container-title": "Research on Humanities and Social Sciences",
+      "issue": "5",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [2015]
+        ]
+      },
+      "URL": "http://www.iiste.org"
+    },
+    {
+      "author": [
+        {
+          "given": "Patton"
+        },
+        {
+          "family": "Tubey",
+          "given": "R.J."
+        },
+        {
+          "family": "Rotich",
+          "given": "J.K."
+        },
+        {
+          "family": "Bengat",
+          "given": "J.K."
+        }
+      ],
+      "title": "'Research paradigms: Theory and practice.'",
+      "volume": "5",
+      "note": "Online] Available from:",
+      "type": "article-journal",
+      "container-title": "Research on Humanities and Social Sciences",
+      "issue": "5",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [2001]
+        ]
+      },
+      "URL": "http://www.iiste.org"
+    },
+    {
+      "author": [
+        {
+          "given": "Sarantakos"
+        },
+        {
+          "family": "Tubey",
+          "given": "R.J."
+        },
+        {
+          "family": "Rotich",
+          "given": "J.K."
+        },
+        {
+          "family": "Bengat",
+          "given": "J.K."
+        }
+      ],
+      "title": "'Research paradigms: Theory and practice.'",
+      "volume": "5",
+      "note": "Online] Available from:",
+      "type": "article-journal",
+      "container-title": "Research on Humanities and Social Sciences",
+      "issue": "5",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [2005]
+        ]
+      },
+      "URL": "http://www.iiste.org"
+    },
+    {
+      "author": [
+        {
+          "family": "Strand",
+          "given": "S."
+        }
+      ],
+      "title": "Ethnic, socio-economic and sex inequalities in educational achievement at age 16: An analysis of the Second Longitudinal Study of Young People in England (LSYPE2",
+      "container-title": "Report for the Commission on Race and Ethnic Disparities (CRED",
+      "publisher": "University of Oxford",
+      "language": "en",
+      "type": "chapter",
+      "issued": {
+        "date-parts": [
+          [2021]
+        ]
+      },
+      "publisher-place": "Oxford"
+    },
+    {
+      "author": [
+        {
+          "given": "Straus"
+        },
+        {
+          "family": "Tubey",
+          "given": "R.J.",
+          "particle": "Corben in"
+        },
+        {
+          "family": "Rotich",
+          "given": "J.K."
+        },
+        {
+          "family": "Bengat",
+          "given": "J.K."
+        }
+      ],
+      "title": "'Research paradigms: Theory and practice.'",
+      "volume": "5",
+      "note": "Online] Available from:",
+      "type": "article-journal",
+      "container-title": "Research on Humanities and Social Sciences",
+      "issue": "5",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [2015]
+        ]
+      },
+      "URL": "http://www.iiste.org"
+    },
+    {
+      "author": [
+        {
+          "family": "Tripathy",
+          "given": "J.P."
+        }
+      ],
+      "title": "Secondary data analysis: ethical issues and challenges",
+      "volume": "42",
+      "note": "Available at: email [Accessed 24 January 2025].",
+      "type": "article-journal",
+      "container-title": "Iranian Journal of Public Health",
+      "issue": "12",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [2013]
+        ]
+      },
+      "page": "1478–1479"
+    },
+    {
+      "author": [
+        {
+          "family": "Tripathy",
+          "given": "J.P."
+        }
+      ],
+      "title": "Secondary data analysis: ethical issues and challenges",
+      "volume": "42",
+      "note": "Available at: email [Accessed 24 January 2025].",
+      "type": "article-journal",
+      "container-title": "Iranian Journal of Public Health",
+      "issue": "12",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [2013]
+        ]
+      },
+      "page": "1478–1479"
+    },
+    {
+      "author": [
+        {
+          "family": "Tripathy",
+          "given": "J.P."
+        }
+      ],
+      "title": "Secondary data analysis: ethical issues and challenges",
+      "volume": "42",
+      "note": "Available at: email [Accessed 24 January 2025].",
+      "type": "article-journal",
+      "container-title": "Iranian Journal of Public Health",
+      "issue": "12",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [2013]
+        ]
+      },
+      "page": "1478–1479"
+    },
+    {
+      "author": [
+        {
+          "family": "Tripathy",
+          "given": "J.P."
+        }
+      ],
+      "title": "Secondary data analysis: ethical issues and challenges",
+      "volume": "42",
+      "note": "Available at: email [Accessed 24 January 2025].",
+      "type": "article-journal",
+      "container-title": "Iranian Journal of Public Health",
+      "issue": "12",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [2013]
+        ]
+      },
+      "page": "1478–1479"
+    },
+    {
+      "author": [
+        {
+          "given": "Vygotsky"
+        },
+        {
+          "family": "Dastpak",
+          "given": "M."
+        },
+        {
+          "family": "Behjat",
+          "given": "F."
+        },
+        {
+          "family": "Taghinezhad",
+          "given": "A."
+        }
+      ],
+      "title": "'A comparative study of Vygotsky's perspectives on child language development with nativism and behaviorism.'",
+      "volume": "5",
+      "note": "Online] Available from:",
+      "type": "article-journal",
+      "container-title": "International Journal of Languages' Education and Teaching",
+      "issue": "2",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [1962]
+        ]
+      },
+      "page": "230–238",
+      "URL": "https://eric.ed.gov/?id=ED574953"
+    },
+    {
+      "author": [
+        {
+          "given": "Winter"
+        },
+        {
+          "family": "Tubey",
+          "given": "R.J."
+        },
+        {
+          "family": "Rotich",
+          "given": "J.K."
+        },
+        {
+          "family": "Bengat",
+          "given": "J.K."
+        }
+      ],
+      "title": "'Research paradigms: Theory and practice.'",
+      "volume": "5",
+      "note": "Online] Available from:",
+      "type": "article-journal",
+      "container-title": "Research on Humanities and Social Sciences",
+      "issue": "5",
+      "language": "en",
+      "issued": {
+        "date-parts": [
+          [2000]
+        ]
+      },
+      "URL": "http://www.iiste.org"
+    }
+  ]
